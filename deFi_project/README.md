@@ -1,15 +1,3 @@
-# Basic Sample Hardhat Project
-
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
-
-Try running some of the following tasks:
-
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+A friendly and safe platform built on the Ethereum blockchain to crowdfund and support creators.
+The applications back end was built using the Smart Contract written in Solidity, APIs were used to make remote
+procedure calls to the blockchain nodes. The application front end was made using the React JS framework.
